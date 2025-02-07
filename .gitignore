@@ -1,0 +1,92 @@
+# ---  ---
+
+# 🔹 Archivos de configuración de usuario de Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 🔹 Archivos de compilación de .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.cache
+*.csproj.user
+*.dbmdl
+*.bak
+*.sql
+
+# 🔹 Dependencias y paquetes
+node_modules/
+packages/
+.npm/
+.nuget/
+.yarn/
+.pnp/
+.pnp.js
+
+# 🔹 Archivos de configuración y secretos
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+appsettings.json
+appsettings.*.json
+secrets.json
+
+# 🔹 Logs y archivos de depuración
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log*
+logs/
+*.log
+
+# 🔹 Caché de React y dependencias
+build/
+.DS_Store
+.eslintcache
+.cache/
+dist/
+coverage/
+public/
+
+# 🔹 Configuración de IDEs
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.vscode/
+.vscode/*
+
+# 🔹 Archivos generados en Docker o entornos de contenedores
+.dockerignore
+.docker-compose*
+
+# 🔹 Archivos de configuración de CI/CD
+*.tfvars
+.terraform/
+/.vsts/
+/.azuredevops/
+/.github/
+
+# 🔹 Archivos específicos de Mac/Linux
+*.swp
+*.swo
+Thumbs.db
+
+# 🔹 Otros archivos que no deben subirse al repositorio
+.idea/
+*.iml
+logs/
+tmp/
+*.pid
+*.seed
+*.pid.lock
