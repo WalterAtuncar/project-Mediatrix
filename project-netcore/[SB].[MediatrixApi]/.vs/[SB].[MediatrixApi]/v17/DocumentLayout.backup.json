@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}|src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\[SB].[MediatrixApi].[Aplicacion].csproj|f:\\equipo\\descarga\\project-mediatrix\\project-netcore\\[sb].[mediatrixapi]\\src\\core\\[sb].[mediatrixapi].[aplicacion]\\features\\categoriaentidad\\commands\\actualizarcategoriaentidadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}|src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\[SB].[MediatrixApi].[Aplicacion].csproj|solutionrelative:src\\core\\[sb].[mediatrixapi].[aplicacion]\\features\\categoriaentidad\\commands\\actualizarcategoriaentidadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A05B6F8-1403-4C05-964B-5013C3F154AD}|src\\Api\\[SB].[MediatrixApi].[Api]\\[SB].[MediatrixApi].[Api].csproj|f:\\equipo\\descarga\\project-mediatrix\\project-netcore\\[sb].[mediatrixapi]\\src\\api\\[sb].[mediatrixapi].[api]\\controllers\\categoriaentidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A05B6F8-1403-4C05-964B-5013C3F154AD}|src\\Api\\[SB].[MediatrixApi].[Api]\\[SB].[MediatrixApi].[Api].csproj|solutionrelative:src\\api\\[sb].[mediatrixapi].[api]\\controllers\\categoriaentidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}|src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\[SB].[MediatrixApi].[Aplicacion].csproj|f:\\equipo\\descarga\\project-mediatrix\\project-netcore\\[sb].[mediatrixapi]\\src\\core\\[sb].[mediatrixapi].[aplicacion]\\features\\entidadgubernamental\\queries\\obtenermenujerarquicoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}|src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\[SB].[MediatrixApi].[Aplicacion].csproj|solutionrelative:src\\core\\[sb].[mediatrixapi].[aplicacion]\\features\\entidadgubernamental\\queries\\obtenermenujerarquicoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A05B6F8-1403-4C05-964B-5013C3F154AD}|src\\Api\\[SB].[MediatrixApi].[Api]\\[SB].[MediatrixApi].[Api].csproj|f:\\equipo\\descarga\\project-mediatrix\\project-netcore\\[sb].[mediatrixapi]\\src\\api\\[sb].[mediatrixapi].[api]\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A05B6F8-1403-4C05-964B-5013C3F154AD}|src\\Api\\[SB].[MediatrixApi].[Api]\\[SB].[MediatrixApi].[Api].csproj|solutionrelative:src\\api\\[sb].[mediatrixapi].[api]\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A05B6F8-1403-4C05-964B-5013C3F154AD}|src\\Api\\[SB].[MediatrixApi].[Api]\\[SB].[MediatrixApi].[Api].csproj|f:\\equipo\\descarga\\project-mediatrix\\project-netcore\\[sb].[mediatrixapi]\\src\\api\\[sb].[mediatrixapi].[api]\\controllers\\entidadgubernamentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A05B6F8-1403-4C05-964B-5013C3F154AD}|src\\Api\\[SB].[MediatrixApi].[Api]\\[SB].[MediatrixApi].[Api].csproj|solutionrelative:src\\api\\[sb].[mediatrixapi].[api]\\controllers\\entidadgubernamentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}|src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\[SB].[MediatrixApi].[Aplicacion].csproj|f:\\equipo\\descarga\\project-mediatrix\\project-netcore\\[sb].[mediatrixapi]\\src\\core\\[sb].[mediatrixapi].[aplicacion]\\features\\entidadgubernamental\\queries\\obtenerentidadgubernamentalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}|src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\[SB].[MediatrixApi].[Aplicacion].csproj|solutionrelative:src\\core\\[sb].[mediatrixapi].[aplicacion]\\features\\entidadgubernamental\\queries\\obtenerentidadgubernamentalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A05B6F8-1403-4C05-964B-5013C3F154AD}|src\\Api\\[SB].[MediatrixApi].[Api]\\[SB].[MediatrixApi].[Api].csproj|f:\\equipo\\descarga\\project-mediatrix\\project-netcore\\[sb].[mediatrixapi]\\src\\api\\[sb].[mediatrixapi].[api]\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A05B6F8-1403-4C05-964B-5013C3F154AD}|src\\Api\\[SB].[MediatrixApi].[Api]\\[SB].[MediatrixApi].[Api].csproj|solutionrelative:src\\api\\[sb].[mediatrixapi].[api]\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActualizarCategoriaEntidadCommand.cs",
+              "DocumentMoniker": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\CategoriaEntidad\\Commands\\ActualizarCategoriaEntidadCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\CategoriaEntidad\\Commands\\ActualizarCategoriaEntidadCommand.cs",
+              "ToolTip": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\CategoriaEntidad\\Commands\\ActualizarCategoriaEntidadCommand.cs",
+              "RelativeToolTip": "src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\CategoriaEntidad\\Commands\\ActualizarCategoriaEntidadCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:10:35.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObtenerMenuJerarquicoQuery.cs",
+              "DocumentMoniker": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\EntidadGubernamental\\Queries\\ObtenerMenuJerarquicoQuery.cs",
+              "RelativeDocumentMoniker": "src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\EntidadGubernamental\\Queries\\ObtenerMenuJerarquicoQuery.cs",
+              "ToolTip": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\EntidadGubernamental\\Queries\\ObtenerMenuJerarquicoQuery.cs",
+              "RelativeToolTip": "src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\EntidadGubernamental\\Queries\\ObtenerMenuJerarquicoQuery.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:48:40.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObtenerEntidadGubernamentalByIdQuery.cs",
+              "DocumentMoniker": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\EntidadGubernamental\\Queries\\ObtenerEntidadGubernamentalByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\EntidadGubernamental\\Queries\\ObtenerEntidadGubernamentalByIdQuery.cs",
+              "ToolTip": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\EntidadGubernamental\\Queries\\ObtenerEntidadGubernamentalByIdQuery.cs",
+              "RelativeToolTip": "src\\Core\\[SB].[MediatrixApi].[Aplicacion]\\Features\\EntidadGubernamental\\Queries\\ObtenerEntidadGubernamentalByIdQuery.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:43:01.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Api\\[SB].[MediatrixApi].[Api]\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\[SB].[MediatrixApi].[Api]\\appsettings.json",
+              "ToolTip": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Api\\[SB].[MediatrixApi].[Api]\\appsettings.json",
+              "RelativeToolTip": "src\\Api\\[SB].[MediatrixApi].[Api]\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T17:38:47.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntidadGubernamentalController.cs",
+              "DocumentMoniker": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\EntidadGubernamentalController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\EntidadGubernamentalController.cs",
+              "ToolTip": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\EntidadGubernamentalController.cs",
+              "RelativeToolTip": "src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\EntidadGubernamentalController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:38:09.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaEntidadController.cs",
+              "DocumentMoniker": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\CategoriaEntidadController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\CategoriaEntidadController.cs",
+              "ToolTip": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\CategoriaEntidadController.cs",
+              "RelativeToolTip": "src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\CategoriaEntidadController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwF0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:37:26.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Equipo\\Descarga\\project-Mediatrix\\project-netcore\\[SB].[MediatrixApi]\\src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Api\\[SB].[MediatrixApi].[Api]\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:09:33.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

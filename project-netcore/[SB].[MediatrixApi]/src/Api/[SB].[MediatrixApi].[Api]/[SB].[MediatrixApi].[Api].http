@@ -1,0 +1,6 @@
+@_SB_._MediatrixApi_._Api__HostAddress = http://localhost:5250
+
+GET {{_SB_._MediatrixApi_._Api__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

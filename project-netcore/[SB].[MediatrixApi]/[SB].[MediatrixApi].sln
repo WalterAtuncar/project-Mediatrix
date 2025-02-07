@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1525AE40-FBF1-477B-BE9F-5AA8C0858758}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{5A56382C-4035-4C14-B73D-818F2C17855B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{2B75A859-65B6-4261-A996-7ED97602F5A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[SB].[MediatrixApi].[Api]", "src\Api\[SB].[MediatrixApi].[Api]\[SB].[MediatrixApi].[Api].csproj", "{5A05B6F8-1403-4C05-964B-5013C3F154AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacion", "Aplicacion", "{3336756F-DB23-4E81-B1AC-9C0DAF2C768B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[SB].[MediatrixApi].[Aplicacion]", "src\Core\[SB].[MediatrixApi].[Aplicacion]\[SB].[MediatrixApi].[Aplicacion].csproj", "{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructura", "Infraestructura", "{C84C0789-98EF-4415-A01C-655C90C9B641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[SB].[MediatrixApi].[Infraestructura]", "src\Core\[SB].[MediatrixApi].[Infraestructura]\[SB].[MediatrixApi].[Infraestructura].csproj", "{E5E5E3A7-2371-4872-81AD-1210C7F077D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicios", "Servicios", "{2E8D36B2-6100-435F-AB48-0CAC76B1A59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[SB].[MediatrixApi].[Servicios]", "src\Core\[SB].[MediatrixApi].[Servicios]\[SB].[MediatrixApi].[Servicios].csproj", "{B6DE40DA-6907-4FED-9A36-98FD83A32282}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{DC0BB0A1-67E6-4717-9B4D-A48852035E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[SB].[MediatrixApi].[Dominio]", "src\Core\[SB].[MediatrixApi].[Dominio]\[SB].[MediatrixApi].[Dominio].csproj", "{310EFBC4-AB7B-4D8C-8C15-7EF04FCB8BC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A05B6F8-1403-4C05-964B-5013C3F154AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A05B6F8-1403-4C05-964B-5013C3F154AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A05B6F8-1403-4C05-964B-5013C3F154AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A05B6F8-1403-4C05-964B-5013C3F154AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E5E3A7-2371-4872-81AD-1210C7F077D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E5E3A7-2371-4872-81AD-1210C7F077D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E5E3A7-2371-4872-81AD-1210C7F077D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E5E3A7-2371-4872-81AD-1210C7F077D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DE40DA-6907-4FED-9A36-98FD83A32282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DE40DA-6907-4FED-9A36-98FD83A32282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DE40DA-6907-4FED-9A36-98FD83A32282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DE40DA-6907-4FED-9A36-98FD83A32282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310EFBC4-AB7B-4D8C-8C15-7EF04FCB8BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310EFBC4-AB7B-4D8C-8C15-7EF04FCB8BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310EFBC4-AB7B-4D8C-8C15-7EF04FCB8BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310EFBC4-AB7B-4D8C-8C15-7EF04FCB8BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A56382C-4035-4C14-B73D-818F2C17855B} = {1525AE40-FBF1-477B-BE9F-5AA8C0858758}
+		{2B75A859-65B6-4261-A996-7ED97602F5A8} = {1525AE40-FBF1-477B-BE9F-5AA8C0858758}
+		{5A05B6F8-1403-4C05-964B-5013C3F154AD} = {5A56382C-4035-4C14-B73D-818F2C17855B}
+		{3336756F-DB23-4E81-B1AC-9C0DAF2C768B} = {2B75A859-65B6-4261-A996-7ED97602F5A8}
+		{2DF366A4-6DD5-41DB-AAB7-D8EF4DC2D048} = {3336756F-DB23-4E81-B1AC-9C0DAF2C768B}
+		{C84C0789-98EF-4415-A01C-655C90C9B641} = {2B75A859-65B6-4261-A996-7ED97602F5A8}
+		{E5E5E3A7-2371-4872-81AD-1210C7F077D3} = {C84C0789-98EF-4415-A01C-655C90C9B641}
+		{2E8D36B2-6100-435F-AB48-0CAC76B1A59E} = {2B75A859-65B6-4261-A996-7ED97602F5A8}
+		{B6DE40DA-6907-4FED-9A36-98FD83A32282} = {2E8D36B2-6100-435F-AB48-0CAC76B1A59E}
+		{DC0BB0A1-67E6-4717-9B4D-A48852035E8A} = {2B75A859-65B6-4261-A996-7ED97602F5A8}
+		{310EFBC4-AB7B-4D8C-8C15-7EF04FCB8BC1} = {DC0BB0A1-67E6-4717-9B4D-A48852035E8A}
+	EndGlobalSection
+EndGlobal
